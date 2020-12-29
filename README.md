@@ -10,7 +10,7 @@
 * You can take a different pic but u have to name it as i named to avoid any errors and place in (Assets.xcassets) Dir as i did.
 
 
-## Here are some screenshot.
+## Here is a screenshot.
 
 ![Video](Documentation/news.jpeg)
 
